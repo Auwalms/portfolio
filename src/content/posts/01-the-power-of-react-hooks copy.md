@@ -1,8 +1,9 @@
 ---
-title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "the-power-of-react-hooks"
+title: "DevFest Minna 2023"
+topic: "Building Skills, Solving Problems and Making Impact"
+publishedAt: 2023-11-18
+description: "DevFest Minna is a local tech conferences hosted by GDG Minna and GDG Cloud Minna targetting developers within Minna"
+slug: "devfest-minna-2023"
 isPublish: true
 ---
 
